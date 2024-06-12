@@ -1,4 +1,4 @@
-# Software-Design-Documentation-Collections-Framework 
+# Software Design Documentation Collections Framework 
 
 ## Linked List Sorting Program
 This program reads a list of integers from scanned user input and saves them in a linked list in ascending order.
